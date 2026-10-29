@@ -1,4 +1,4 @@
-name: Feature Request / 功能请求
+name: Feature Request 
 description: 'Submit a Feature Request / 提交一个功能请求'
 labels: [enhancement]
 body:
